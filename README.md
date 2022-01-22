@@ -25,5 +25,5 @@ Objectives:
 __Reasoning for not using API:__
 - limitation with the number of calls
 - years needs to be extracted separately due to the aggregating method on Rightmove
-  - if 2010 used as a maximum year the website will only include the most recent transactions truncating the oldest and loosing part of the data). This increases the number of calls that passes the daily API limit
+  - if 2010 used as a maximum year the website will only include the most recent transactions truncating the oldest and loosing part of the data. This increases the number of calls that passes the daily API limit
           
